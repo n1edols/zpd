@@ -1,6 +1,6 @@
 ## izveidot number guessing speli ar Python programesanus valodu
 
-###saturs
+### saturs
 
 #### 1. Apraksti spēli
 interesanta spele
